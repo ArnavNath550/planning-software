@@ -110,6 +110,6 @@
     "three": "0.94.x"
   },
   "engines": {
-    "node": "16.x"
+    "node": "18.x"
   }
 }
